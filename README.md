@@ -1,6 +1,8 @@
 This is a online-code-editor for HTML,CSS and JavaScript. This can be used to create a frontend of a website, and here you can clearly see, after coding, how your website would look.
 You can also save your code and you can share the link of the code-editor to anyone, and you can see a magic that anyone from the created link can acces your saved code.
 You can also clear the screen and create a new website again after clicking new button. 
+
+To run the project, you can directly download the zip file, and using visual studio code you can run the following command and get the required output.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
